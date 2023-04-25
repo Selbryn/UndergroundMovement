@@ -417,7 +417,7 @@
                             "command": "EVENT_SWITCH_SCENE",
                             "args": {
                                 "sceneId": "de7c6e59-5723-42dd-93ab-aa99b01b66e1",
-                                "x": 6,
+                                "x": 4,
                                 "y": 12,
                                 "direction": "",
                                 "fadeSpeed": "2"
@@ -823,35 +823,12 @@
                             "command": "EVENT_SWITCH_SCENE",
                             "args": {
                                 "sceneId": "048e9b53-b518-4377-af90-cb74bf85aae9",
-                                "x": 1,
-                                "y": 9,
+                                "x": 3,
+                                "y": 8,
                                 "direction": "",
                                 "fadeSpeed": "2"
                             },
                             "id": "fb9d5cd0-2488-4a9e-bb6a-10e82c3a45dd"
-                        }
-                    ],
-                    "leaveScript": []
-                },
-                {
-                    "name": "",
-                    "id": "65316833-8fdc-4c71-9400-b38b0cf714bb",
-                    "x": 4,
-                    "y": 12,
-                    "symbol": "trigger_6",
-                    "width": 2,
-                    "height": 2,
-                    "script": [
-                        {
-                            "command": "EVENT_SWITCH_SCENE",
-                            "args": {
-                                "sceneId": "71db5440-b72c-4f20-b5ed-9005f292ff32",
-                                "x": 6,
-                                "y": 12,
-                                "direction": "",
-                                "fadeSpeed": "2"
-                            },
-                            "id": "01a07389-2101-4bd8-9f8b-f2109ac39d8f"
                         }
                     ],
                     "leaveScript": []
@@ -1276,7 +1253,7 @@
                             "args": {
                                 "sceneId": "048e9b53-b518-4377-af90-cb74bf85aae9",
                                 "x": 4,
-                                "y": 6,
+                                "y": 4,
                                 "direction": "",
                                 "fadeSpeed": "2"
                             },
@@ -1682,34 +1659,11 @@
                             "args": {
                                 "sceneId": "de7c6e59-5723-42dd-93ab-aa99b01b66e1",
                                 "x": 16,
-                                "y": 9,
+                                "y": 8,
                                 "direction": "",
                                 "fadeSpeed": "2"
                             },
                             "id": "8ca39824-255c-4eca-900c-5297c6a7265a"
-                        }
-                    ],
-                    "leaveScript": []
-                },
-                {
-                    "name": "",
-                    "id": "e9344b5c-7f03-451a-9efd-0477f634ce24",
-                    "x": 4,
-                    "y": 4,
-                    "symbol": "trigger_7",
-                    "width": 2,
-                    "height": 2,
-                    "script": [
-                        {
-                            "command": "EVENT_SWITCH_SCENE",
-                            "args": {
-                                "sceneId": "69066b8b-97a7-498c-b2d9-0f29d7e71893",
-                                "x": 4,
-                                "y": 6,
-                                "direction": "",
-                                "fadeSpeed": "2"
-                            },
-                            "id": "e9b5055c-200b-4f3b-94c0-8458d1f53912"
                         }
                     ],
                     "leaveScript": []
@@ -2685,17 +2639,17 @@
         }
     ],
     "settings": {
-        "startSceneId": "69066b8b-97a7-498c-b2d9-0f29d7e71893",
-        "startX": 14,
-        "startY": 4,
+        "startSceneId": "",
+        "startX": 9,
+        "startY": 9,
         "startMoveSpeed": 1,
         "startAnimSpeed": 15,
         "startDirection": "down",
         "showCollisions": true,
         "showConnections": true,
-        "worldScrollX": 520.7999877929688,
-        "worldScrollY": 425.6000061035156,
-        "zoom": 212.5,
+        "worldScrollX": 295.20001220703125,
+        "worldScrollY": 291.20001220703125,
+        "zoom": 162.5,
         "customColorsEnabled": false,
         "sgbEnabled": false,
         "customHead": "",
